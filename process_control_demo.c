@@ -2,6 +2,7 @@
  * file:process_control_demo.c
  * description:进程控制的一个程序示例，
  * 该程序的功能是在当前目录下执行shell命令，比如：ls、pwd、who等
+ * date:2015/7/14
  */
 
 #include <stdio.h>

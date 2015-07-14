@@ -1,6 +1,7 @@
 /*
  * file:process_demo.c
  * description:获取一个进程的PID
+ * date:2015/7/14
  */
 #include <stdio.h>
 #include <stdlib.h>

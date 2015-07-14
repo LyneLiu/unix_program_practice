@@ -1,6 +1,7 @@
 /*
  * file:copy_demo.c
  * description:将标准输入拷贝到标准输出
+ * date:2015/7/14
  */
 
 #include <stdio.h>
